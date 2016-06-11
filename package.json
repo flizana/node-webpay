@@ -4,7 +4,7 @@
   "description": "Library dedicated to facilitate Transbank's Webpay implementation in Node.js.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/flizana/node-webpay/issues"
   },
-  "homepage": "https://github.com/flizana/node-webpay"
+  "homepage": "https://github.com/flizana/node-webpay",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
 }
