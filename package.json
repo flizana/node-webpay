@@ -1,0 +1,24 @@
+{
+  "name": "node-webpay",
+  "version": "0.0.0",
+  "description": "Library dedicated to facilitate Transbank's Webpay implementation in Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flizana/node-webpay"
+  },
+  "keywords": [
+    "transbank",
+    "webpay",
+    "oneclick"
+  ],
+  "author": "Fernando Lizana",
+  "license": "GNU GPL v3.0",
+  "bugs": {
+    "url": "https://github.com/flizana/node-webpay/issues"
+  },
+  "homepage": "https://github.com/flizana/node-webpay"
+}
